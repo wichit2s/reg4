@@ -1,0 +1,42 @@
+[
+  {
+    "model": "core.Member",
+    "pk":  "mana@ubu.ac.th",
+    "fields": {
+      "username": "mana",
+      "first_name": "มานะ",
+      "last_name": "รักเผ่าไทย",
+      "dob": "1991-01-01"
+    }
+  },
+  {
+    "model": "core.Member",
+    "pk":  "manee@ubu.ac.th",
+    "fields": {
+      "username": "manee",
+      "first_name": "มานี",
+      "last_name": "รักเผ่าไทย",
+      "dob": "1992-01-02"
+    }
+  },
+  {
+    "model": "core.Member",
+    "pk": "piti@ubu.ac.th",
+    "fields": {
+      "username": "piti",
+      "first_name": "ปิติ",
+      "last_name": "พิทักษ์ถิ่น",
+      "dob": "1992-01-03"
+    }
+  },
+  {
+    "model": "core.Member",
+    "pk": "chujai@ubu.ac.th",
+    "fields": {
+      "username": "chujai",
+      "first_name": "ชูใจ",
+      "last_name": "เลิศล้ำ",
+      "dob": "1992-01-04"
+    }
+  }
+]
