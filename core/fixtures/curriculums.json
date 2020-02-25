@@ -1,0 +1,13 @@
+[
+  {
+    "pk": "25400181100612",
+    "model": "core.Curriculum",
+    "fields": {
+      "thai_name": "หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการข้อมูลและนวัตกรรมซอฟต์แวร์",
+      "english_name": "Bachelor of Science Program in Data Science and Software Innovation",
+      "thai_degree": "วิทยาศาสตรบัณฑิต (วิทยาการข้อมูลและนวัตกรรมซอฟต์แวร์)",
+      "english_degree": "Bachelor of Science (Data Science and Software Innovation)"
+    }
+  }
+]
+

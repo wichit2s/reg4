@@ -1,0 +1,627 @@
+[
+  {
+    "pk": "61114440267",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ธนากร",
+      "last_name": "แก้วพินึก",
+      "email": "thanakorn.ka.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440156",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ธเนษฐ",
+      "last_name": "ศิริบูรณ์",
+      "email": "thanet.si.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440378",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ศุภฌาน์",
+      "last_name": "บุดดาแพน",
+      "email": "Suphacha.bu.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440390",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "เศรษฐวัฒน์",
+      "last_name": "แสงศรี",
+      "email": "setthawat.sa.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440472",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ภัทรพล",
+      "last_name": "ผิวเรือง",
+      "email": "phattaraphon.pe.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440497",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "อลงกรณ์",
+      "last_name": "ไชยชนะ",
+      "email": "alongkorn.ch.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440568",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "วนัฐชญา",
+      "last_name": "บุญยพรหม",
+      "email": "wanatchaya.bo.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440215",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ปราชญอนันต์",
+      "last_name": "ศรีสันติแสง",
+      "email": "Pratchaya-anan.sr.@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440557",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ลลิตา",
+      "last_name": "สุวรรณะ",
+      "email": "lalita.su.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440144",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ชัยวัฒน์",
+      "last_name": "สิงคิบุตร",
+      "email": "chaiwat.si.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440292",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ธัญกร ",
+      "last_name": "แก้วกนก",
+      "email": "thanyakon.ke.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440797",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "อณพิชฌา",
+      "last_name": "หยาดทอง",
+      "email": "anapitcha.ya.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440323",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ศราวุธ",
+      "last_name": "อ่อนศรี",
+      "email": "sarawut.on.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440717",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ศิริประภา",
+      "last_name": "จารุมูล",
+      "email": "siripapha.ch.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440870",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "อัครพล",
+      "last_name": "จันทร์ส่อง",
+      "email": "akharpon.ju.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440081",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "จักรกฤษณ์",
+      "last_name": "มนตรีวงษ์",
+      "email": "jakkrit.mo.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440112",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ธนพรรณ",
+      "last_name": "คำลอย",
+      "email": "tanapan.kh.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440649",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "วีรพล ",
+      "last_name": "อักโข",
+      "email": "weerapon.ak.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440338",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ศศิกานต์",
+      "last_name": "อินวิถี",
+      "email": "sasikan.in.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440380",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ผุสดี",
+      "last_name": "จานดี",
+      "email": "phutsadee.ja.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440091",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ตรีเทพ",
+      "last_name": "เฉลียวธรรม",
+      "email": "trithep.ch.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440233",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "พรนภา",
+      "last_name": "ประสิทธิ์",
+      "email": "phornnapa.pr.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440475",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "หทัยรัตน์",
+      "last_name": "พูลทวี",
+      "email": "hathairat.po.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440228",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ปราโมทย์",
+      "last_name": "แก้วดอนโมง",
+      "email": "pramote.ka.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440397",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "พงศ์คเณศ ",
+      "last_name": "แก้วฤทธิ์",
+      "email": "phongkhanet.ka.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440462",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "เสถียร ",
+      "last_name": "ภาษาดี",
+      "email": "sathain.ph.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440694",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ศักรินทร์",
+      "last_name": "หาญชนะพล",
+      "email": "sakkarin.ha.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440101",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ทักษพร",
+      "last_name": "เรืองคำ",
+      "email": "thaksaporn.ru.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440830",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "อนุชา",
+      "last_name": "สุภาวงค์",
+      "email": "anucha.su.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440406",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "สิทธิชา ",
+      "last_name": "ภะวันตุ",
+      "email": "sitthicha.ph.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440024",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย ",
+      "first_name": "กรวิชญ์",
+      "last_name": "จันเทศ",
+      "email": "konrawit.ch.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440720",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ศุภกิตติ์",
+      "last_name": "วงศ์แก้ว",
+      "email": "supakit.wo.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440847",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "อนุวรรตน์จาตุรนต์",
+      "last_name": "พัวทวี",
+      "email": "anuwat.pu.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440055",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "จักพรรดิ",
+      "last_name": "เนตตาสาร",
+      "email": "jakkaphat.ne.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440420",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "สุดเขต",
+      "last_name": "สร้อยจิตร",
+      "email": "sudkhat.so.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440383",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ศุภนิมิต ",
+      "last_name": "แสงเมือง",
+      "email": "supanimit.sa.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440451",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "สุรศักดิ์",
+      "last_name": "นามแสง",
+      "email": "surasak.na.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440541",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "วิชุดา",
+      "last_name": "พรมโสดา",
+      "email": "wichuda.ph.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440063",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "เกียรติชัย",
+      "last_name": "สุดอุ่น",
+      "email": "kiartichai.su.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440494",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ภากร",
+      "last_name": "สารีบุตร",
+      "email": "pakorn.sa.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440137",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ชัยประสิทธิ์",
+      "last_name": "คำศรี",
+      "email": "chaiprasit.kh.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440288",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "วรนาถ",
+      "last_name": "บุญเอนก",
+      "email": "woranat.bo.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440627",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "วิรัลพัชร",
+      "last_name": "โรจนศักดิ์โสธร",
+      "email": "virunpatch.ro.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "61114440658",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "วีระชัย",
+      "last_name": "เจริญพงษ์",
+      "email": "weerachai.ch.61@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440345",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "ศศิศ",
+      "last_name": "วิรัตน์จินดา",
+      "email": "sasit.wi.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440417",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "สิรินญา",
+      "last_name": "เบ้าคำ",
+      "email": "sirinya.ba.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440185",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "นิภาพรรณ",
+      "last_name": "จันทาดี",
+      "email": "nipapan.ja.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440204",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ประณิธิภรณื",
+      "last_name": "สุริยะศรี",
+      "email": "pranithiporn.su.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440516",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ปิยะดา",
+      "last_name": "พรหมขจร",
+      "email": "piyada.ph.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440192",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "บัญชา",
+      "last_name": "เพ็งเเจ่ม",
+      "email": "bancha.pa.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440125",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นางสาว",
+      "first_name": "ธนสร",
+      "last_name": "เครือจันทร์",
+      "email": "thanasorn.kr.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  },
+  {
+    "pk": "62114440442",
+    "model": "core.Student",
+    "fields": {
+      "initial": "นาย",
+      "first_name": "สุรเกียรติ ",
+      "last_name": "ทับละคร",
+      "email": "mr.surakiat.ta.62@ubu.ac.th",
+      "faculty": "วิทยาศาสตร์",
+      "curriculum": "25400181100612"
+    }
+  }
+]
+

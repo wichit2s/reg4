@@ -1,0 +1,1125 @@
+[
+	{
+    "pk": "1141003",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "วิธีการเชิงตัวเลข",
+      "english_title": "Numerical Methods",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นทางคณิตศาสตร์  ผลเฉลยเชิงตัวเลขของสมการไม่เชิงเส้น  การประมาณค่าในช่วงและนอกช่วง  ผลเฉลยเชิงตัวเลขของระบบสมการเชิงเส้น  อนุพันธ์เชิงตัวเลขและปริพันธ์เชิงตัวเลข  การประมาณค่าด้วยผลต่างจำกัด  ผลเฉลยเชิงตัวเลขของสมการเชิงอนุพันธ์สามัญ  ปัญหาค่าลักษณะเฉพาะของเมตริกซ์  ผลเฉลยเชิงตัวเลขของสมการเชิงอนุพันธ์ย่อยกับการประยุกต์",
+      "english_description": "Basic mathematics;  solution of nonlinear equations;  interpolation and extrapolation;  solving system of linear equations;  numerical differentiation and numerical integration;  finite difference approximations;  numerical solution of ordinary differential equations;  matrix eigenvalue problems;  numerical solution of partial differential equations and its applications",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145101",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การวิเคราะห์ข้อมูลเชิงสำรวจ",
+      "english_title": "Exploratory Data Analytics",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "1145001;1145008",
+      "corequisite": "",
+      "thai_description": "แนวคิดการวิเคราะห์ข้อมูลเชิงสำรวจ  การแสดงข้อมูลด้วยภาพ  วิธีการทางกราฟฟิก การวิเคราะห์ส่วนเหลือ  การชี้จุดค่านอกกลุ่ม  การจำแนกกลุ่ม  การตรวจสอบการแจกแจงและข้อสมมติ การรู้จำรูปแบบ  กฎความสัมพันธ์  การแปลงข้อมูล  ต้นไม้โครงข่าย  วิธีการนำเสนอข้อมูลขนาดใหญ่  การวิเคราะห์ข้อมูลเชิงสำรวจร่วมกับสถานประกอบการ",
+      "english_description": "Exploratory data analysis concepts;  data visualization;  graphical methods;  residual analysis;  outlier detection;  clustering;  distribution and assumption validation;  pattern recognition;  association rules;  data transformation;  networks trees;  visualization methods for big data;  data analysis project in partner with business sector",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1503100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ยาและสมุนไพรในชีวิตประจำวัน",
+      "english_title": "(Drugs and Herbs in Daily Life)",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "พฤติกรรมการใช้ยาในสังคมไทย  แหล่งข้อมูลทางยาและสุขภาพ  การปฐมพยาบาลเบื้องต้น  รูปแบบยาเตรียมและการออกฤทธิ์ของยาต่อร่างกาย  เทคนิคการใช้ยาแบบต่าง ๆ  สิทธิผู้บริโภคและคำประกาศสิทธิผู้ป่วย  ประเภทของร้านยา สมุนไพรในบัญชียาหลักแห่งชาติ  ยาที่ใช้ในระบบทางเดินหายใจ  ยาที่ใช้ในระบบทางเดินอาหาร  ยาที่ใช้ในโรคผิวหนัง  ยาคุมกำเนิด  ผลิตภัณฑ์เสริมสุขภาพและความงามในชีวิตประจำวัน  อาหารเพื่อสุขภาพ",
+      "english_description": "Behaviors of drug consumption in Thai society; information sources for drugs and health; first aids; drug formulations and drug actions in body; drug application techniques; consumer rights and declaration of patient’s rights; types of drug stores; herbal products in Thai national drug list; drugs for respiratory system; drugs for gastrointestinal system; drugs for skin diseases; contraceptives; products for health and beauty in daily life; foods for health",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1141002",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "คณิตศาสตร์เต็มหน่วย",
+      "english_title": "Discrete Mathematics",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "เซต ลำดับ ตรรกศาสตร์และการพิสูจน์ คณิตศาสตร์เชิงการจัด ความสัมพันธ์ ฟังก์ชัน ทฤษฎีกราฟ  แผนภาพต้นไม้  พีชคณิตบูลีน  ออโตมาตาแกรมมาและภาษา",
+      "english_description": "Sets;  sequences;  logic and methods of proof;  combinatoric mathematics; relations;  functions;  graph theory;  tree diagram;  boolean algebra;  automata grammarand languages",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1449100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "มนุษย์กับการท่องเที่ยว",
+      "english_title": "Man and Tourism",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิดเกี่ยวกับการท่องเที่ยว  ความเป็นมาของการเดินทางท่องเที่ยว  ประเภทของการท่องเที่ยว  ประโยชน์และผลกระทบจากการท่องเที่ยว  พฤติกรรมของนักท่องเที่ยว  การเป็นเจ้าบ้านที่ดี  ธุรกิจและหน่วยงานที่เกี่ยวข้องกับการท่องเที่ยว  การจัดการท่องเที่ยวและแหล่งท่องเที่ยวที่สำคัญในประเทศไทย ภูมิภาคอาเซียน และต่างประเทศ",
+      "english_description": "Concepts of tourism; travel and tourism history; tourism typology; benefits and impacts of tourism; tourist behavior; being a good host; businesses and organization related to tourism; tourism management and important tourist destinations in Thailand",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1421222",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ภาษาอังกฤษสำหรับสาขาวิทยาศาสตร์และเทคโนโลยี",
+      "english_title": "(English for Science and Technology)",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การอ่านเพื่อจับใจความสำคัญและรายละเอียดจำเพาะทางวิทยาศาสตร์และเทคโนโลยี การแสดงความคิดเห็น การเขียนระดับย่อหน้า",
+      "english_description": "Reading for main ideas and specific details; expressing opinions; paragraph writing in science and technology contexts",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145010",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเรียนรู้ของเครื่อง",
+      "english_title": "Machine Learning",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ทฤษฎีการเรียนรู้ของเครื่อง  การเรียนรู้แบบอุปนัย  การเรียนรู้จำรูปแบบ  การเรียนรู้โดยใช้หลักทางสถิติ  การเรียนรู้แบบมีผู้ฝึกสอนและแบบไม่มีผู้ฝึกสอน  การประยุกต์ใช้การเรียนรู้ของเครื่อง",
+      "english_description": "Machine learning theory;  inductive learning",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1421103",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ภาษาอังกฤษพื้นฐาน 2",
+      "english_title": "Foundation English II",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การเข้าใจภาษาพูดและเขียนภาษาอังกฤษ  การสื่อสารด้วยภาษาที่มีโครงสร้างซับซ้อนขึ้นในหัวข้อที่เกี่ยวข้องกับชีวิตประจำวันและอาชีพต่าง ๆ",
+      "english_description": "Comprehension of spoken and written English; communication about daily life and career-related topics by using more complex language structures",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1441100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "มนุษย์กับสังคม",
+      "english_title": "Man and Society",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "มนุษย์กับสังคม  ความหลากหลายของความเชื่อและกลุ่มชน  เมืองและมหานคร  ช่วงชั้นและชนชั้นทางสังคม  บริโภคนิยม  วัฒนธรรมย่อย  เพศภาวะ  โลกาภิวัตน์กับการย้ายถิ่นข้ามชาติ  สังคมข่าวสารและเทคโนโลยีเปลี่ยนโลก",
+      "english_description": "Man and society; diversity of beliefs and peoples; urban and city; stratification and social class; consumerism; sub-culture; gender; globalization and transnational migrant; information society and disruptive technologies",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1441103",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "นวัตกรรมทางสังคม",
+      "english_title": "Social Innovation",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิดพื้นฐานการพัฒนาสังคม  การเป็นผู้เปลี่ยนแปลงสังคม  กิจการเพื่อสังคม  นวัตกรรมเพื่อสังคม การสร้างมูลค่าให้แก่สินค้า  การสร้างนวัตกรรมโดยชุมชน  การสร้างนวัตกรรมจากเครือข่ายความร่วมมือ  การสร้างนวัตกรรมจากงานวิจัย  นวัตกรรมทางสังคมจากการทำโครงงานกลุ่ม",
+      "english_description": "Social development;  being an agent for social change;  social enterprise;  social innovation;  adding value to products;  innovation from community;  innovation from networking;  innovation from research;  social innovation from project",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1411101",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ภาษาไทยเพื่อการสื่อสาร",
+      "english_title": "Thai Language for Communication",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ภาษากับการสื่อสาร  ภาษากับความคิด  ศิลปะการใช้ภาษาไทย  การอ่านเชิงวิเคราะห์  การเขียนแสดงความคิดเห็น  การเขียนรายงาน",
+      "english_description": "Language and communication;  language and thoughts;  the art of using Thai language;  analytical reading;  writing to express ideas;  report writing",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1141001",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "สถิติและการวิเคราะห์เชิงปริมาณ",
+      "english_title": "Statistics and Quantitative Analysis",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ระเบียบวิธีการทางสถิติ ความน่าจะเป็นและการแจกแจงความน่าจะเป็นแบบไม่ต่อเนื่องและแบบต่อเนื่อง  การสุ่มตัวอย่าง  การประมาณค่าพารามิเตอร์  การทดสอบสมมติฐาน  การวิเคราะห์การถดถอยเชิงเส้นแบบง่ายและการวิเคราะห์สหสัมพันธ์  ระบบสมการเชิงเส้น  ปัญหาการขนส่ง ปัญหาการแจกงาน  รูปแบบสินค้าคงคลัง  รูปแบบมาร์คอฟ  การจำลองเชิงคณิตศาสตร์และทฤษฎีเกม",
+      "english_description": "Statistical method;  probability and discrete and continuous probability distributions;  sampling;  estimation of parameters;  hypothesis testing;  simple linear regression analysis and correlation analysis;  linear programming;  transportation problem",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1421102",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ภาษาอังกฤษพื้นฐาน 1",
+      "english_title": "Foundation English I",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การเข้าใจภาษาพูดและเขียนภาษาอังกฤษที่สั้นและกระชับ  การสื่อสารด้วยภาษาที่มีโครงสร้างไม่ซับซ้อนเกี่ยวกับตนเอง  บุคคล  สถานที่และสิ่งของ",
+      "english_description": " Comprehension of short and precise spoken and written English;  communication about oneself",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1703110",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ทักษะการเงินในชีวิตประจำวัน",
+      "english_title": "Finance Skills in Daily Life",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "หลักการบริหารการเงินส่วนบุคคล กระบวนการวางแผนการเงินส่วนบุคคล ความรู้ทางการเงิน วินัยทางการเงิน ระบบเศรษฐกิจ เศรษฐกิจพอเพียงและการประยุกต์ใช้ในชีวิตประจำวัน การพัฒนาอาชีพและการเป็นผู้ประกอบการ ฟินเทคและนวัตกรรมทางการเงิน การจัดการหนี้สิน เงินกู้ยืมเพื่อการศึกษา การวางแผนการลงทุน การวางแผนการประกันภัย การจัดการความเสี่ยง การวางแผนภาษี การวางแผนเพื่อการเกษียณ  การพัฒนาคุณภาพชีวิตส่วนบุคคล",
+      "english_description": "Principles of personal financial management;  personal financial planning process;  financial literacy;  financial discipline;  economic system;  sufficiency economy and application in daily life;  career development and entrepreneurship;  FinTech and financial innovation;  debt management;  student loan fund;  investment planning;  insurance planning;  risk management;  tax planning;  planning for retirement;  developing the quality of personal life",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "2100101",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "มนุษย์กับอารยธรรม",
+      "english_title": "Law and modern society",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวความคิดเบื้องต้นและทฤษฎีทางกฎหมายกับสังคม ระบบกฎหมาย กฎหมายลักษณะบุคคล สิทธิ กฎหมายว่าด้วยนิติกรรม กฎหมายทรัพย์และทรัพย์สิน กฎหมายลักษณะหนี้ กฎหมายลักษณะละเมิด กฎหมายลักษณะครอบครัว เอกเทศสัญญาในชีวิตประจำวัน อาชญากรรมกับสังคม ระบบและองค์กรที่เกี่ยวข้องกับกฎหมาย กระบวนการจัดทำกฎหมาย กฎหมายกับการควบคุมสังคม กฎหมายกับการเปลี่ยนแปลงทางสังคม หลักและสาระสำคัญของรัฐธรรมนูญ",
+      "english_description": "Basic concepts and theories of law and society;  legal systems;  law on person",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145006",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเขียนโปรแกรมเชิงวัตถุ",
+      "english_title": "Object-orited-Programming",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิดและหลักการการเขียนโปรแกรมเชิงอ็อบเจกต์  คลาสและอ็อบเจกต์  การห่อหุ้ม  การสืบทอด  ภาวะพหุสัณฐาน  เฟรมเวิร์คสำหรับพัฒนาซอฟต์แวร์เชิงอ็อบเจกต์  การพัฒนาโครงงานเชิงอ็อบเจกต์",
+      "english_description": "Concepts and principles of object-oriented programming;  class and object;  encapsulation;  inheritance;  polymorphism;  frameworks for object-oriented software development;  object-oriented project development",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145001",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเขียนโปรแกรมเบื้องต้น",
+      "english_title": "Introduction to Programming",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "หลักการและแนวคิดของแก้ปัญหาด้วยภาษาโปรแกรมคอมพิวเตอร์  รหัสจำลอง  ผังงาน  รูปแบบภาษาโปรแกรม  ตัวแปรและชนิดข้อมูล  ตัวปฏิบัติการ  ข้อความสั่ง  คำสั่งเพื่อกำหนดลำดับการทำงาน  เครื่องมือการเขียนโปรแกรม  แบบอย่างและสัญนิยมการเขียนโปรแกรม",
+      "english_description": "Principles and concepts of problem-solving with programming language;  pseudo code;  flowchart;  programming language syntax;  variables and data types;  operators;  statements;  control structures;  programming tools;  programming styles and conventions",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1432100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "มนุษย์กับสังคม",
+      "english_title": "Man and Civilization",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "รูปแบบภาษาโปรแกรม ตัวแปรและชนิดข้อมูล ตัวปฏิบัติการ ข้อความสั่ง คำสั่งเพื่อกำหนดลำดับการทำงาน เครื่องมือการเขียนโปรแกรม แบบอย่างและสัญนิยมการเขียนโปรแกรม",
+      "english_description": "Meaning of culture and civilization; world geography; human evolution; disciplines and technologies for studying civilization; ecological environment and the rise of civilizations; neolithic revolution; early settlements in Mesopotamia",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1435100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ดนตรีกับชีวิต",
+      "english_title": "(Music for Life)",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "องค์ประกอบของดนตรี  ความสัมพันธ์ของดนตรีที่มีต่อมนุษย์  ดนตรีกับสุขภาพ  ดนตรีในชีวิตประจำวัน  ดนตรีกับศาสนาและพิธีกรรม  จุดมุ่งหมายและหน้าที่ของดนตรีที่มีต่อวิถีชีวิตและสังคม",
+      "english_description": "Elements of music; relationship between music and humans; music and health; music in daily life; music in religions and ceremonies; purposes and functions of music in livelihood and society",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1502100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การดูแลสุขภาพตามวัย",
+      "english_title": "Age-appropriated Health Care",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การดูแลสุขภาพตามวัย  จิตวิทยาพัฒนาการ  ระบบสืบพันธุ์เพศชายและเพศหญิง  การปฏิสนธิ  การกำหนดเพศและการกำเนิดทารก  พัฒนาการและความผิดปกติของทารกในครรภ์  การเปลี่ยนแปลงทางสรีระและการดูแลสุขภาพสำหรับหญิงตั้งครรภ์ ทารกและมารดาหลังคลอด เด็กก่อนวัยเรียนและเด็กวัยเรียน วัยรุ่นและวัยเจริญพันธุ์ วัยทองและวัยสูงอายุ  วัคซีน  โรคติดเชื้อทางระบบสืบพันธุ์และการป้องกัน การวางแผนครอบครัวและการคุมกำเนิด ความผิดปกติทางพันธุกรรม  ภาวะไม่เจริญพันธุ์และการรักษา",
+      "english_description": "Age-appropriated health care;  developmental psychology;  male and female reproductive system;  fertilization",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1507100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "สังคมกับสุขภาพ",
+      "english_title": "Society and Health",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิด นิยาม ปรัชญาและองค์ประกอบของสุขภาพ  คุณภาพชีวิต  ปัจจัยทางสังคม โครงสร้างทางสังคม การเมือง เศรษฐกิจ วัฒนธรรม ความเชื่อ ศาสนากับสุขภาพ  ผลกระทบจากปัญหาสังคม การเปลี่ยนแปลงทางสังคม  สิ่งแวดล้อมกับสุขภาพ  เทคโนโลยีกับสุขภาพ  ค่านิยมและปัญหาพฤติกรรมสุขภาพ  การสื่อสารสุขภาพ  การสร้างเสริมสุขภาพ  อารมณ์และความเครียด  การออกกำลังกาย",
+      "english_description": "Concepts",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145000",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "คอมพิวเตอร์เบื้องต้นและองค์ประกอบคอมพิวเตอร์",
+      "english_title": "(Introduction to Computer and Computer Organization)",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นเกี่ยวกับคอมพิวเตอร์ วงจรตรรกะเชิงตัวเลข การแทนข้อมูล ระบบบัส หน่วยความจำภายในและภายนอก อุปกรณ์รับส่งข้อมูล ส่วนสนับสนุนระบบปฏิบัติการ หน่วยประมวลผลกลาง หน่วยคำนวณและตรรกะ ชุดคำสั่งและหน่วยควบคุม วิวัฒนาการและรูปแบบของสถาปัตยกรรมคอมพิวเตอร์ หลักการภาษาแอสเซมบลี",
+      "english_description": "Introduction to computer; digital logic circuits; data representation; system buses; internal and external memory; input and output devices; operating system support; central processing unit; arithmetic and logic unit; instruction set and control unit; computer architecture evolution and format; assembly language concepts",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145005",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเขียนโปรแกรมบนเว็บ",
+      "english_title": "Web Programming",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "พื้นฐานเทคโนโลยีบนเว็บ  เอชทีเอ็มแอล ซีเอสเอสและจาวาสคริปต์  เจสัน  การออกแบบเว็บ สำหรับหลายอุปกรณ์  หลักการรับ-ส่งข้อมูลบนเว็บ  ส่วนต่อประสานโปรแกรมประยุกต์  การประมวลผลแบบกลุ่มเมฆ  การออกแบบและพัฒนาโปรแกรมประยุกต์บนเทคโนโลยีเว็บ  เว็บที่มีฐานข้อมูล  การเขียนภาษาสคริปต์ฝั่งผู้ให้บริการ  การพัฒนาโครงงานบนเว็บ",
+      "english_description": "Basic of web technology; HTML",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145216",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การพัฒนาและประยุกต์ใช้นวัตกรรมซอฟต์แวร์",
+      "english_title": "Software Innovation Development and Application",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ความหมาย บทบาท ความสำคัญ ประเภทและองค์ประกอบของนวัตกรรม การวิเคราะห์นวัตกรรมซอฟต์แวร์ด้วยแบบจำลองทางวิศวกรรมซอฟต์แวร์ กระบวนการพัฒนานวัตกรรมซอฟต์แวร์ ทรัพย์สินทางปัญญา การประยุกต์นวัตกรรมซอฟต์แวร์ในงานจริง การฝึกปฏิบัติพัฒนานวัตกรรมซอฟต์แวร์",
+      "english_description": "Meaning",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1421216",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ภาษาอังกฤษเพื่อการเดินทาง",
+      "english_title": "(English for Travel)",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "1421103",
+      "corequisite": "",
+      "thai_description": "การจับใจความสำคัญของภาษาพูดและเขียนภาษาอังกฤษ การแสดงความคิดเห็นและแลกเปลี่ยนความคิดเห็น การอ่านเพื่อความเข้าใจ การเขียนในบริบททางการเดินทาง",
+      "english_description": "Identification of main points in spoken and written English; expressing and exchanging opinions; reading for comprehension; writing in traveling contexts",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1421217",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ภาษาอังกฤษจากสื่อ",
+      "english_title": "(English through Media)",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "1421103",
+      "corequisite": "",
+      "thai_description": "การจับใจความสำคัญของภาษาพูดและเขียนภาษาอังกฤษ การแสดงความคิดเห็นและแลกเปลี่ยนความคิดเห็น การอ่านเพื่อความเข้าใจ การเขียนจากสื่อคัดสรร",
+      "english_description": "Identification of main points in spoken and written English; expressing and exchanging opinions; reading for comprehension; writing on selected media",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1146002",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การออกแบบประสบการณ์ผู้ใช้และส่วนติดต่อผู้ใช้งาน",
+      "english_title": "User Experience and User Interface Design",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การสำรวจองค์ประกอบการออกแบบภาพ ส่วนติดต่อผู้ใช้งานและประสบการณ์ผู้ใช้  เทคนิคการออกแบบที่คำนึงถึงผู้ใช้เป็นหลัก  วิเคราะห์ข้อมูลผู้ใช้และการสร้างลักษณะบุคลิกของผู้ใช้  การทำความเข้าใจแนวคิด สถานการณ์และออกแบบกระดานเรื่องราว สร้างต้นแบบกระดาษ การวางแผนการนำไปใช้  ประเภทของส่วนต่อประสาน  ประสบการณ์ผู้ใช้ในการปฏิสัมพันธ์โต้ตอบ  การออกแบบต้นแบบที่มีความเที่ยงตรงสูง เทคนิคการประเมินผล",
+      "english_description": "Exploration of visual design elements",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145004",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ระบบฐานข้อมูล",
+      "english_title": "Database System",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ฐานข้อมูลและระบบจัดการฐานข้อมูล หลักการออกแบบฐานข้อมูล เทคนิคและรูปแบบในการออกแบบฐานข้อมูล การออกแบบฐานข้อมูลเชิงแนวคิดและเชิงตรรกะ การนอมอลไลเซชัน คำสั่งภาษาเอสคิวแอล คำสั่งสำหรับการเรียกใช้ข้อมูล การเขียนนิพจน์ การเรียงลำดับ การคัดเลือกข้อมูล การเรียกข้อมูลจากหลายตาราง ฟังก์ชันการรวมกลุ่มข้อมูล คำสั่งเรียกใช้ข้อมูลย่อย คำสั่งด้านการปรับเปลี่ยนข้อมูล การสร้างและปรับปรุงตาราง การสร้างข้อจำกัด การสร้างวิว การกำหนดการเข้าถึงสำหรับผู้ใช้ การใช้ตัวแปร คำสั่งประมวลผล การโต้ตอบกับแม่ข่ายและการใช้คำสั่งควบคุมโดยใช้ซอฟต์แวร์ที่นิยมใช้ในปัจจุบัน การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Database and database management system Database design principles Techniques and patterns in database design Conceptual and logical database design Nomination Sql command Commands for accessing data Expression writing Sorting Data selection Retrieving data from multiple tables Data integration function Commands to run sub data Data modification commands Creating and updating tables Creating restrictions Creating user access view views Using processing command variables The interaction with the host and the use of control commands using software that is currently used. Practice on related topics.",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145204",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ปัญญาประดิษฐ์",
+      "english_title": "Artificial Intelligence",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นเกี่ยวกับปัญญาประดิษฐ์  ปริภูมิสถานะ  เทคนิคการค้นหา  ตรรกศาสตร์  การแทนความรู้  การอนุมานภายใต้ความไม่แน่นอน  การเรียนรู้ของเครื่อง  ระบบผู้เชี่ยวชาญ  การประมวลผลภาษาธรรมชาติ  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง   ",
+      "english_description": "Introduction to artificial intelligence;  state space;  searching techniques;  logic;  knowledge representation;  inference under uncertainty;  machine learning;  expert system;  natural language processing;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145102",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "วิศวกรรมซอฟต์แวร์",
+      "english_title": "Software Engineering",
+      "credits": "3",
+      "lecture": "0",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "1145003",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นเกี่ยวกับวิศวกรรมซอฟต์แวร์  วงจรการพัฒนาซอฟต์แวร์  โมเดลกระบวนการซอฟต์แวร์  วิศวกรรมความต้องการ  การใช้วิธีของอไจล์ในการพัฒนาซอฟแวร์  การวิเคราะห์และออกแบบซอฟต์แวร์  การสร้างซอฟต์แวร์  การทดสอบซอฟต์แวร์  การบริหารโครงการ  การบำรุงรักษาซอฟต์แวร์",
+      "english_description": "Introduction to software engineering;  software development life cycle;  software process modeling;  requirements engineering;  agile software development;  software analysis and design;  ",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145002",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "โครงสร้างข้อมูลและขั้นตอนวิธี",
+      "english_title": "Data Structures and Algorithms",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "โครงสร้างข้อมูลเบื้องต้น  การวิเคราะห์เวลาดำเนินงานและความซับซ้อนของขั้นตอนวิธี  โครงสร้างข้อมูลแบบเชิงเส้น อาร์เรย์ ลิงค์ลิสต์ สแตก คิว  โครงสร้างข้อมูลแบบไม่เชิงเส้น ทรี กราฟ  เทคนิคการเรียงลำดับข้อมูล  เทคนิคการค้นหาข้อมูล  การประยุกต์ใช้โครงสร้างข้อมูล  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Introduction to data structures;  analysis of running time and complexity of algorithms;  linear data structures",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1446101",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ศิลปะการดำเนินชีวิต",
+      "english_title": "Arts of Living",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "สำรวจตัวเอง  รู้จักตัวเองจากมุมมองของบุคคลอื่น  การคิดวิเคราะห์ด้วยเหตุผล ความเข้าใจในชีวิต ศิลปะการสื่อสาร บทบาทหน้าที่และความรับผิดชอบต่อครอบครัวและสังคม การพัฒนาบุคลิกภาพและมารยาทสังคมกระบวนการทำงานอย่างมีประสิทธิภาพและมีความสุข",
+      "english_description": "Self explore",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1421218",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ภาษาอังกฤษเพื่อเตรียมตัวเข้าสู่อาชีพ",
+      "english_title": "(English for Career Preparation)",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "1421103",
+      "corequisite": "",
+      "thai_description": "การจับใจความสำคัญของภาษาพูดและเขียนภาษาอังกฤษ การแสดงความคิดเห็นและแลกเปลี่ยนความคิดเห็น การอ่านเพื่อความเข้าใจ การเขียนเพื่อเตรียมตัวเข้าสู่อาชีพ",
+      "english_description": "Identification of main points in spoken and written English; expressing and exchanging opinions; reading for comprehension; writing for carrer preparation",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145221",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเขียนโปรแกรมภาษาไพธอน",
+      "english_title": "(Python Programming)",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "1145 001",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นเกี่ยวกับภาษาไพธอน  ประเภทของข้อมูล  คำสั่งควบคุม ฟังก์ชัน โครงสร้างข้อมูล  โมดูลและการจัดการข้อมูลนำเข้า/ส่งออก  การจัดการข้อผิดพลาด  คลาส  การพัฒนาโปรแกรมแบบวินโดว์  การพัฒนาโปรแกรมบนเว็บ  การพัฒนาโปรแกรมบนอุปกรณ์เคลื่อนที่  การพัฒนาโครงงานด้วยภาษาไพธอน",
+      "english_description": "Introduction to Python;  data types;  control flow statements;  functions;  data structures;  module and input/output;  exception handling;  classes;  window application development;  web application development;  mobile application development;  python project developmen",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145220",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเขียนโปรแกรมภาษาจาวา",
+      "english_title": "(Java Programming)",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "1145 001",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นเกี่ยวกับภาษาจาวา ประเภทของข้อมูล ตัวดำเนินการและประเภทของคำสั่ง คำสั่งควบคุม แนวคิดเชิงอ็อบเจกต์ คลาส อ๊อบเจกต์และโครงสร้างข้อมูล การจัดการข้อมูลนำเข้า/ส่งออกและข้อผิดพลาด การพัฒนาโปรแกรมแบบวินโดว์ การพัฒนาโปรแกรมบนเว็บ การพัฒนาโปรแกรมบนอุปกรณ์เคลื่อนที่ การพัฒนาโครงงานด้วยภาษาจาวา",
+      "english_description": "Introduction to Java;  data types;  operators and statements;  control flow statements;  object-oriented programming concepts;  classes",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1439100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การออกกำลังกายเพื่อสุขภาพ",
+      "english_title": "Exercise for Health",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ประวัติความเป็นมา ความสำคัญและความรู้เบื้องต้นของการออกกำลังกายเพื่อสุขภาพ  ทักษะทางการกีฬา ขั้นตอน เทคนิค และทักษะพื้นฐานในการออกกำลังกายเพื่อสุขภาพตามรูปชนิดต่าง ๆ  การวัดและประเมินผล  การทดสอบสมรรถภาพทางกาย  กฎกติกา  และมารยาทในการเล่นกีฬาและ การออกกำลังกาย",
+      "english_description": "Background",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145212",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การออกแบบซอฟต์แวร์และรูปแบบ",
+      "english_title": "Software Design and Pattern",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวความคิดพื้นฐานของการออกแบบ คุณภาพการออกแบบ หลักการการออกแบบ รูปแบบรายการของรูปแบบ รูปแบบเชิงการคิด รูปแบบเชิงโครงสร้าง รูปแบบเชิงพฤติกรรม",
+      "english_description": "Basic concepts of design; design quality; design principles; design pattern; design pattern catalog; creational pattern; structural pattern; behavioral pattern",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145103",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การจัดการโครงการทางซอฟต์แวร์",
+      "english_title": "Software Project Management",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิดเกี่ยวกับคุณภาพของผลิตภัณฑ์ซอฟต์แวร์และกระบวนการผลิตซอฟต์แวร์  บทบาทของการจัดการคุณภาพอย่างเบ็ดเสร็จ (ทีคิวเอ็ม)  การใช้การวัด การศึกษาความเป็นไปได้ การประเมินราคาและความพยายาม  การวางแผนและการกำหนดเวลาโครงงาน  โมเดลคาปาปิลิตีมาร์ทัวริตี  ความคิดพื้นฐานและการประยุกต์การสอบทานกระบวนการ",
+      "english_description": "Concepts of software product and process quality;  roles of Total Quality Management (TQM);  using metrics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145100",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ชุดเครื่องมือสำหรับวิทยาการข้อมูล",
+      "english_title": "Data Science Toolbox",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นเกี่ยวกับชุดเครื่องมือสำหรับวิทยาการข้อมูล ระบบควบคุมรหัสต้นฉบับ",
+      "english_description": "Introduction to data science toolbox; version control system; programming languages for data science; programming module for data science; data science toolbox and application development in partner with business sectors",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145009",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การประมวลผลแบบกลุ่มเมฆ",
+      "english_title": "Cloud Computing",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การประมวลผลแบบกลุ่มเมฆเบื้องต้น  สถาปัตยกรรมกลุ่มเมฆและแบบจำลองการบริการ บริการทางด้านโครงสร้างพื้นฐาน  บริการทางด้านแพลตฟอร์ม บริการทางด้านซอฟต์แวร์  รูปแบบการปรับใช้กลุ่มเมฆสาธารณะ  กลุ่มเมฆชุมชน  กลุ่มเมฆส่วนบุคคล  กลุ่มเมฆผสม  การทำเสมือนจริง ซีพียู เครือข่าย ระบบจัดเก็บ  ประเด็นด้านความมั่นคงและภาวะส่วนตัว  แนะนำการทำ MapReduce  กรณีศึกษาของการประมวลผลแบบกลุ่มเมฆ  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Basic of cloud computing;  cloud architecture and service models",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145104",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "โครงงานวิทยาการข้อมูลและนวัตกรรมซอฟต์แวร์",
+      "english_title": "Data Science and Software Innovation Project",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การพัฒนาโครงงานด้านวิทยาการข้อมูลและนวัตกรรมซอฟแวร์ในการดูแลของอาจารย์ที่ปรึกษา การจัดทำรายงานฉบับสมบูรณ์ การนำเสนอด้วยวาจา",
+      "english_description": "Developing data science and software innovation project under the supervision of the project advisor;  full report preparation;  oral presentation",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145200",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การทำคลังข้อมูล",
+      "english_title": "Data Warehousing",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิดเกี่ยวกับคลังข้อมูล  ความหมาย โครงสร้าง กระบวนการจัดการ  การพัฒนาโมเดลข้อมูล การออกแบบโมเดลข้อมูล  กระบวนการในการเก็บรักษาข้อมูล  การแยกข้อมูล  การแปลงข้อมูลและการโหลดข้อมูล  ประสิทธิภาพการออกแบบโมเดลข้อมูล  กรณีศึกษาทางธุรกิจ",
+      "english_description": "Concepts of data warehousing; definition",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145209",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "หัวข้อที่น่าสนใจในวิทยาการข้อมูล",
+      "english_title": "Selected Topics in Data Science",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "หัวข้อที่อยู่ในความสนใจในปัจจุบันทางวิทยาการข้อมูล  การพัฒนาโครงงานด้านวิทยาการข้อมูลร่วมกับสถานประกอบการ  กรณีศึกษาทางธุรกิจ",
+      "english_description": "Topics of current interest in data science;  data science project development in partner with business sectors;  business case study",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145210",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การวิเคราะห์ข้อมูลขนาดใหญ่",
+      "english_title": "Big Data Analytics",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนะนำข้อมูลขนาดใหญ่  การวางแผนข้อมูลขนาดใหญ่  การใช้ฐานข้อมูลโนเอสคิวแอล  การใช้ฮาดูป การติดตั้งฮาดูป เฟรมเวิร์คของฮาดูปแมพรีดิว  การออกแบบและกระบวนการของธุรกิจอัจฉริยะ  ความสำคัญของข้อมูลเชิงวิทยาศาสตร์  กรณีศึกษาของการวิเคราะห์ข้อมูลขนาดใหญ่  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Introduction to big data;  big data planning;  using NoSQL database;  using Hadoop",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145211",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การวิเคราะห์ข้อมูลทางการตลาด",
+      "english_title": "Marketing Data Analytics",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "พฤติกรรมผู้บริโภค  กระบวนการตัดสินใจซื้อ  วัฒนธรรมของผู้บริโภค  การรวบรวมข้อมูลทางการตลาด  การวิเคราะห์ความสัมพันธ์ของข้อมูลทางการตลาด",
+      "english_description": "Consumer behavior;  process of purchase decision making;  culture of consumers;  marketing data collection;  marketing data relationship analytics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1431111",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "จริยศาสตร์และการใช้เหตุผล",
+      "english_title": "Ethics and Reasoning",
+      "credits": "3",
+      "lecture": "3",
+      "laboratory": "0",
+      "self_study": "6",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": " ความหมายของการคิด  การอ้างเหตุผล  การอ้างเหตุผลบกพร่อง  ทักษะใช้เหตุผลเพื่อแก้ปัญหาในชีวิตประจำวัน  จริยศาสตร์  ปัญหาศีลธรรมในการดำเนินชีวิต  มุมมองทางศาสนา",
+      "english_description": " Meaning of thinking;  argument;  fallacy;  reasoning skills for problem solving in daily life;  ethics;  moral problems in daily life;  religious perspectives",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145203",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "ระบบสนับสนุนการตัดสินใจ",
+      "english_title": "Decision Support Systems",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "หลักการที่ช่วยในการตัดสินใจ  กระบวนการตัดสินใจ  ขอบข่ายของการพัฒนาระบบสนับสนุนการตัดสินใจ  เทคนิคในการสร้างโมเดลสำหรับการตัดสินใจ  ต้นไม้ตัดสินใจ  ระบบสารสนเทศเพื่อผู้บริหารระดับสูง  ระบบสนับสนุนการตัดสินใจแบบกลุ่ม  ระบบแนะนำ  พื้นฐานเทคนิคในระบบแนะนำ  กรณีศึกษาทางธุรกิจ  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Principles of supporting decision making;  decision making process;  framework of decision support systems development;  decision support modeling techniques;  decision trees;  executive information systems;  group decision support system;  recommender system;  fundamental techniques in recommender system;  business case study;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145213",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การทดสอบซอฟต์แวร์และการประกันคุณภาพ",
+      "english_title": "Software Testing and Quality Assurance",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นการทดสอบซอฟแวร์  การตรวจสอบความถูกต้อง  การยืนยันความถูกต้องและความผิดพลาด  กระบวนการทดสอบซอฟแวร์  วิธีการทดสอบซอฟแวร์  การสร้างชุดการทดสอบและการเขียนโปรแกรม  เครื่องมือที่ใช้ในการทดสอบ  การทดสอบอัตโนมัติ  การทดสอบแบบอไจล์  การประกันคุณภาพและการควบคุมคุณภาพ  รายงานการทดสอบ",
+      "english_description": "Introduction to software testing;  verification",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145007",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเขียนโปรแกรมสำหรับอุปกรณ์เคลื่อนที่",
+      "english_title": "Moblie Application Programming",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิดเกี่ยวกับการจัดการกับอุปกรณ์เคลื่อนที่  การจัดการเว็บด้วยเอชทีเอ็มแอล จาวาสคริปต์ และซีเอสเอส  สถาปัตยกรรมระบบปฏิบัติการอุปกรณ์เคลื่อนที่  การจัดการโปรแกรมส่วนติดต่อกับผู้ใช้  การจัดการเหตุการณ์และการโต้ตอบ  การจัดการมัลติมีเดีย  การบริการข้อมูลพื้นที่และระบบฝังตัวอื่น  ระบบบริการฐานข้อมูลและเว็บ  การสร้างโปรแกรมประยุกต์บนคลาวด์ ",
+      "english_description": "Concepts in mobile programming;  html",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145205",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การทำเหมืองข้อมูล",
+      "english_title": "Data Mining",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ความรู้เบื้องต้นเกี่ยวกับการทำเหมืองข้อมูล  การเตรียมข้อมูล  ขั้นตอนวิธีที่ใช้สำหรับการทำเหมืองข้อมูล  การจำแนกประเภทข้อมูล  การค้นหากฎความสัมพันธ์ของข้อมูล  การจัดกลุ่มโดยใช้ขั้นตอนวิธีเคมีนส์  ซอฟต์แวร์ที่ใช้ในการทำเหมืองข้อมูล  การทำเหมืองข้อมูลบนเว็บ  การประยุกต์ใช้เหมืองข้อมูล กรณีศึกษาทางธุรกิจ  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Introduction to data mining;  data preparation;  algorithms for data mining;  data classification;  association rules discovery;  clustering using k-means algorithm;  data mining software;  web mining;  applications of data mining;  business case study;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1144131",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "พื้นฐานการเขียนโปรแกรม",
+      "english_title": "Programming Fundamental",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "3",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวคิดและหลักการแก้ปัญหาด้วยภาษาโปรแกรมคอมพิวเตอร์ รูปแบบภาษาโปรแกรม ตัวแปรและ ชนิดข้อมูล คำสั่งเพื่อกำหนดลำดับการทำงาน อาร์เรย์ การจัดการไฟล์ การเขียนเมธอด",
+      "english_description": "Concepts and principles of problem solving using computer programming languages Program language styles",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145003",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การวิเคราะห์และออกแบบระบบ",
+      "english_title": "System Analysis and Design",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ระบบสารสนเทศ  วงจรการพัฒนาระบบ  การวิเคราะห์ความต้องการ  ระเบียบวิธีการวิเคราะห์และออกแบบระบบเชิงโครงสร้าง  ระเบียบวิธีการวิเคราะห์และออกแบบระบบด้วยหลักการเชิงอ็อบเจกต์  เครื่องมือสำหรับการวิเคราะห์และออกแบบระบบ  กรณีศึกษา",
+      "english_description": "Information system;  system development life cycle;  requirements analysis;   structured-oriented methodology of system analysis and design;  object-oriented methodology of system analysis and design;  tools for system analysis and design;  case studies",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145008",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การรวบรวมข้อมูลและการนำเสนอ",
+      "english_title": "Data Collection and Data Visualization",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "การรวบรวมข้อมูลและการนำเสนอเบื้องต้น  วิธีการเก็บรวบรวมข้อมูล  การสำรวจข้อมูล การแทนข้อมูล  เครื่องมือการจัดรวบรวมข้อมูล  บริบทของข้อมูล  ประเภทของกราฟ  การลดความซ้ำซ้อนในการนำเสนอ  การนำเสนอข้อมูลแบบเล่าเรื่องราว  มาตรการคุ้มครองความเป็นส่วนตัวของข้อมูลส่วนบุคคล",
+      "english_description": "Introduction to data collection and data visualization;  data collection methods;  data exploration;  data representation;  data collection tools;  data context;  graph types;  clutter elimination;  storytelling for data visualization;  general data protection regulation",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1146212",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "อินเทอร์เน็ตของสรรพสิ่ง",
+      "english_title": "Internet of Things",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "หลักการอินเทอร์เน็ตของสรรพสิ่ง พื้นฐานอิเล็กทรอนิกส์ เซนเซอร์และแอคทูเอเตอร์ ฮาร์ดแวร์และซอฟต์แวร์ เครื่องมือและภาษาในการโปรแกรม โพรโตคอลที่เกี่ยวข้องกับอินเทอร์เน็ตของสรรพสิ่ง ประเด็นเรื่องความมั่นคงและความเป็นส่วนตัว การประมวลผลแบบทุกหนแห่ง การประมวลผลตามบริบท การประยุกต์ใช้งานอินเทอร์เน็ตของสรรพสิ่ง การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": " Principles of Internet of Things;  basic electronics;  sensors and actuators;  hardware and software;  tools and programming languages;  Internet of Things related protocols;  privacy and security issues;  ubiquitous computing;  context aware computing;  Internet of Things applications;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145201",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การค้นคืนสารสนเทศ",
+      "english_title": "Information Retrieval",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "หลักการและแนวคิดในการค้นคืนสารสนเทศ องค์ประกอบของการค้นคืนสารสนเทศโมเดลการค้นคืนสารสนเทศ  ขั้นตอนวิธีการค้นคืนสารสนเทศ  การสร้างระบบการค้นคืนสารสนเทศการประเมินผลการค้นคืนสารสนเทศ  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Principles and concepts of information retrieval;  components of information retrieval;  models of information retrieval;  algorithms of information retrieval;  information retrieval system implementations;  evaluation of information retrieval;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1146003",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การสื่อสารข้อมูลและเครือข่ายอินเตอร์เน็ต",
+      "english_title": "Data Communication and Inter-networking",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "พื้นฐานการสื่อสารข้อมูล  แบบจำลองโอเอสไอและแบบจำลองทีซีพี/ไอพี  สัญญาณและสื่อกลางในการสื่อสาร  การมอดดูเลชั่นและการดีมอดดูเลชั่น  การมัลติเพลกซ์และการดีมัลติเพลกซ์  เทคโนโลยีเครือข่ายท้องถิ่น  เทคโนโลยีอีเทอร์เน็ต  การเชื่อมโยงระหว่างเครือข่าย  ไอพีแอดเดรส  การส่งต่อแพ็คเกต การหาเส้นทางและโปรโตคอลในการหาเส้นทาง  เทคโนโลยีเครือข่ายแบบไร้สาย  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Fundamentals of data communications;  OSI model and TCP/IP model;  signals and transmission media;  modulation and demodulation;  multiplexing and demultiplexing;  local area networks technologies;  ethernet technologies;  inter-networks connection;  IP addressing;  packet forwarding;  routing and routing protocols;  wireless network technologies;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145206",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การวิเคราะห์ข้อมูลภาพ",
+      "english_title": "Image Analytics",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวความคิดพื้นฐานของการจัดเก็บภาพและการนำเข้า  คุณสมบัติของภาพดิจิทัล  การนำเสนอภาพ  โครงสร้างข้อมูลเพื่อการวิเคราะห์ภาพ  เรขาคณิตของภาพเดี่ยวและหลายภาพ  การแปลงด้วยความเข้มและไบนารี  การแปรเปลี่ยนภาพ  ระเบียบวิธีการประมวลผลภาพ  การกรองภาพตามพื้นที่และความถี่  การปรับปรุงและการฟื้นฟู  การทำให้เรียบและคมชัด  การแสดงรูปร่างและคำอธิบาย  โมเดลสี การประมวลผลแบบหลอกสี  การฟื้นฟูความลึก  การแบ่งฉากหน้าฉากหลัง  การตรวจจับขอบและมุม  ภาพสามมิติ  การรับรู้ตามกลุ่ม  การบีบอัดข้อมูลภาพ  การวิเคราะห์การเคลื่อนไหว  การสกัดหาลักษณะที่สำคัญในภาพ  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Basic concepts of image formation and acquisition;  properties of digitized image;  image representation;  data structures for image analysis;  single and multi-image geometry;  intensity and binary transformations;  morphology;  image preprocessing methodologies;  filtering in spatial and frequency domains;  enhancement and restoration;  smoothing and sharpening;  shape representation and description;  color models;  pseudo-color processing;  depth recovery;  foreground and background segmentation;  edge and corner detection;  3D vision;  perceptual grouping;  image data compression;  motion analysis;  extraction of distinctive image features;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145207",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การรู้จำรูปแบบ",
+      "english_title": "Pattern Recognition",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวความคิดพื้นฐานของการรู้จํารูปแบบ  วิธีการคัดเลือกลักษณะ  ฟังก์ชันการตัดสิน  ตัวแยกประเภทแบบเบยส์  ขั้นตอนวิธีการแบ่งกลุ่ม  ขั้นตอนวิธีการเรียนรู้และการประยุกต์ของการรู้จํารูปแบบ  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Basic concepts of pattern recognition;  feature selection methods;  decision functions;  Bayes classifiers;  clustering algorithms;  learning algorithms and applications of pattern recognition;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145208",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเรียนรู้เชิงลึก",
+      "english_title": "Deep Learning",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "แนวความคิดพื้นฐานของการเรียนรู้เชิงลึก  โครงข่ายประสาทเทียมเชิงลึก  รูปแบบข้อมูลสําหรับการเรียนรู้เชิงลึก  เครื่องมือในการเรียนรู้เชิงลึก  การประยุกต์การเรียนรู้เชิงลึก  การฝึกปฏิบัติในหัวข้อที่เกี่ยวข้อง",
+      "english_description": "Basic concepts of deep learning;  deep neural network;  data models for deep learning;  deep learning tools;  applications of deep learning;  laboratory work in related topics",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145214",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "โซลูชันซอฟต์แวร์เพื่อผู้ประกอบการ",
+      "english_title": "Software Solutions for Entrepreneurs",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "1145 001",
+      "corequisite": "",
+      "thai_description": "การทำความเข้าใจเทคโนโลยีใหม่ทางด้านสารสนเทศ หัวข้อคัดสรรเพื่อเข้าใจฟังก์ชันทางธุรกิจ กรณีศึกษาเพื่อสำรวจ เฟรมเวิร์ค เครื่องมือ และแผนงาน หัวข้ออาจมีการเปลี่ยนแปลงในแต่ละภาคการศึกษาเพื่อความเหมาะสมตามความต้องการของผู้ประกอบการ",
+      "english_description": "Understanding new Information Technologies;  selected topics to understand business functions;  case studies to explore frameworks",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145215",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "วิศวกรรมความต้องการ",
+      "english_title": "Requirements Engineering",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "กระบวนการวิศวกรรมความต้องการ  เป้าหมาย ขอบเขตและวงจร  การได้มาซึ่งความต้องการ  การประเมินความต้องการ  การระบุความต้องการและการจัดทําเอกสารความต้องการ  การตรวจสอบความถูกต้องความต้องการ  วิศวกรรมความต้องการแบบกึ่งรูปนัยและรูปนัย  วิศวกรรมความต้องการเน้นที่เป้าหมาย  การสร้างแบบจำลองความต้องการระบบด้วยแผนภาพเป้าหมายเคออส  การสร้างแบบจำลองการทำงานของเป้าหมาย  วิศวกรรมความต้องการแบบอื่น",
+      "english_description": "Requirements engineering process;  aim",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145217",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การวัดซอฟต์แวร์",
+      "english_title": "Software Metrics",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "1145 102",
+      "corequisite": "",
+      "thai_description": "พื้นฐานทฤษฎีสำหรับการวัดซอฟต์แวร์  การเก็บข้อมูล  การออกแบบและวิเคราะห์การทดลอง  การสอบทานการวัดซอฟต์แวร์  การวัดกระบวนการพัฒนาและบำรุงรักษาซอฟต์แวร์  ระบบสำหรับวัดซอฟต์แวร์  เครื่องมือทางสถิติ  การประยุกต์การวัดซอฟต์แวร์",
+      "english_description": "Theoretical foundations of software metrics;  data collection;  experimental design and analysis;  software metric validation;  measuring software development and maintenance process;  measuring software systems;  statistical tools;  applications of software measurement",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145218",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "หัวข้อที่น่าสนใจในนวัตกรรมซอฟต์แวร์",
+      "english_title": "Selected Topics in Software Innovation",
+      "credits": "3",
+      "lecture": "1",
+      "laboratory": "4",
+      "self_study": "4",
+      "prerequisite": "1145 001",
+      "corequisite": "",
+      "thai_description": "หัวข้อที่น่าสนใจ หัวข้อพิเศษ หรือเทคโนโลยีใหม่ที่เกี่ยวข้องกับนวัตกรรมซอฟต์แวร์ หัวข้ออาจจะปรับเปลี่ยนในแต่ละภาคการศึกษา ",
+      "english_description": "Topics of interested",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145219",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "การเขียนโปรแกรมภาษาซีชาร์ป",
+      "english_title": "C# Programming",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "1145 001",
+      "corequisite": "",
+      "thai_description": "แนวคิดเกี่ยวกับภาษาซีชาร์ปและดอทเน็ตเฟรมเวิรค์  ตัวแปรและตัวดำเนินการ  คลาสและเมธอด  อาร์เรย์  ข้อความและนิพจน์ทั่วไป  คำสั่งควบคุม  คลาสคอลเลคชันและคลาสทั่วไป  ดีลิเกตและอีเวนต์  การจัดการข้อยกเว้น  การจัดการไฟล์อินพุตเอาท์พุต  มัลติเทรดดิง  เอดีโอดอทเน็ตและลิงก์",
+      "english_description": "Concepts in C# and .NET framework;  variables and operators;  class and methods;  arrays;  strings and regex;  control statements;  collection classes and generics;  delegates and events;  exception handling;  file i/o;  multi-threading;  ADO.NET and LINQ",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145222",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "หัวข้อที่น่าสนใจในภาษาโปรแกรม",
+      "english_title": "Selected Topics in Programming Language",
+      "credits": "3",
+      "lecture": "2",
+      "laboratory": "2",
+      "self_study": "5",
+      "prerequisite": "1145 001",
+      "corequisite": "",
+      "thai_description": "โครงสร้างและองค์ประกอบของภาษาที่น่าสนใจ  หลักการเขียนโปรแกรมภาษาที่น่าสนใจ  การประยุกต์สำหรับงานต่าง ๆ  เครื่องมือพัฒนาโปรแกรมภาษาที่น่าสนใจ",
+      "english_description": "Structure and elements of selected topics in programming language;  its principles of programming;  its applications;  development tools",
+      "curriculum": "25400181100612"
+    }
+  },
+	{
+    "pk": "1145300",
+    "model": "core.Course",
+    "fields": {
+      "thai_title": "สหกิจศึกษา",
+      "english_title": "Co-operative Education",
+      "credits": "6",
+      "lecture": "0",
+      "laboratory": "0",
+      "self_study": "0",
+      "prerequisite": "",
+      "corequisite": "",
+      "thai_description": "ฝึกปฏิบัติงานในภาคอุตสาหกรรม ธุรกิจหรือหน่วยงานราชการเป็นเวลาไม่น้อยกว่า 4 เดือน  การประเมินผลโดยอาจารย์ที่ปรึกษาและพนักงานพี่เลี้ยง  การทำรายงาน  การนิเทศจากคณาจารย์",
+      "english_description": "Practical work at industrial sector",
+      "curriculum": "25400181100612"
+    }
+  }
+]
+

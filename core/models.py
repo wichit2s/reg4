@@ -25,3 +25,54 @@ class Note(models.Model):
 
     def __str__(self):
         return self.text
+
+class Staff(models.Model):
+    id                  = models.AutoField(primary_key=True)
+    initial             = models.CharField(max_length=100)
+    first_name          = models.CharField(max_length=200)
+    last_name           = models.CharField(max_length=200)
+    email               = models.EmailField()
+    position            = models.CharField(max_length=200)
+
+    def __str__(self):
+        return f'{self.first_name} {self.last_name}'
+
+class Curriculum(models.Model):
+    id                  = models.AutoField(primary_key=True)
+    thai_name           = models.CharField(max_length=300)
+    english_name        = models.CharField(max_length=300)
+    thai_degree         = models.CharField(max_length=300)
+    english_degree      = models.CharField(max_length=300)
+
+    def __str__(self):
+        return self.thai_name
+
+class Course(models.Model):
+    id                  = models.AutoField(primary_key=True)
+    thai_title          = models.CharField(max_length=300)
+    english_title       = models.CharField(max_length=300)
+    credits             = models.IntegerField()
+    lecture             = models.IntegerField()
+    laboratory          = models.IntegerField()
+    self_study          = models.IntegerField()
+    prerequisite        = models.CharField(max_length=500)
+    corequisite         = models.CharField(max_length=500)
+    thai_description    = models.CharField(max_length=2000)
+    english_description = models.CharField(max_length=2000)
+    curriculum          = models.ForeignKey(Curriculum, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f'{self.id} {self.thai_title} ({self.english_title})'
+
+class Student(models.Model):
+    id                  = models.AutoField(primary_key=True)
+    initial             = models.CharField(max_length=100)
+    first_name          = models.CharField(max_length=200)
+    last_name           = models.CharField(max_length=200)
+    email               = models.EmailField()
+    faculty             = models.CharField(max_length=200)
+    curriculum          = models.ForeignKey(Curriculum, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f'{self.first_name} {self.last_name}'
+

@@ -15,4 +15,20 @@ class NoteSerializer(serializers.ModelSerializer):
         model = Note
         fields = [ 'id', 'text', 'member' ]
 
+class CurriculumSerializer(serializers.ModelSerializer):
 
+    class Meta:
+        model = Curriculum
+        fields = '__all__'
+
+class CourseSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = Course
+        fields = '__all__'
+
+class StudentSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = Student
+        fields = '__all__'
